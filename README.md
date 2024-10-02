@@ -1,4 +1,4 @@
-<h2> Hi, I'm Lucas González Fiz! <img src="[https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif](https://camo.githubusercontent.com/19229030445ea01b174403c3c422a912f4ecd56ce1472c48f680878a2fd12778/68747470733a2f2f692e696d6775722e636f6d2f6b644b686778362e676966)" width="50"></h2>
+<h2> Hi, I'm Lucas González Fiz! <img src="https://i.imgur.com/kdKhgx6.gif" width="50"></h2>
 
 ### Lucas Fiz AI Engineer
 
