@@ -31,11 +31,15 @@ me.say_hi()
 ```
 
 
-**LucachuTW/LucachuTW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 **Programming Languages:**
 
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
 ![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white&color=6aa6f8)
 
+**Programming Languages:**
 
+<p align="center">
+  <samp>
+    Currently studying AI at uvigo
+  </samp>
+</p>
