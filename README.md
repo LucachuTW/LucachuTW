@@ -1,6 +1,9 @@
-<h2> Hi, I'm Lucas González Fiz! <img src="https://i.imgur.com/kdKhgx6.gif" width="50"></h2>
+
 
 ### Lucas Fiz AI Engineer
+
+
+<img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
 
 ```python
 #!/usr/bin/python
