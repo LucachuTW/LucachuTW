@@ -1,7 +1,7 @@
 
 
 ### Lucas Fiz AI Engineer
-
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 <p align="center">
   <samp>
@@ -15,7 +15,7 @@
 # -*- coding: utf-8 -*-
 
 
-class SoftwareEngineer:
+class AIEngineer:
 
     def __init__(self):
         self.name = "Lucas González Fiz"
@@ -29,17 +29,13 @@ class SoftwareEngineer:
 me = AIEngineer()
 me.say_hi()
 ```
-<!--
+
+
 **LucachuTW/LucachuTW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**Programming Languages:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
+![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white&color=6aa6f8)
+
+
