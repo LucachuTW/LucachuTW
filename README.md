@@ -1,6 +1,6 @@
 
 
-### Lucas Fiz AI Engineer
+### Lucas Fiz AI Student
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 <p align="center">
@@ -15,18 +15,18 @@
 # -*- coding: utf-8 -*-
 
 
-class AIEngineer:
+class AIStudent:
 
     def __init__(self):
         self.name = "Lucas González Fiz"
-        self.role = "AI Engineer"
-        self.language_spoken = ["es_ES", "en_US"]
+        self.role = "AI Studentr"
+        self.language_spoken = ["es_ES", "en_US", "gl_GL"]
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
 
 
-me = AIEngineer()
+me = AIStudnet()
 me.say_hi()
 ```
 
@@ -40,10 +40,10 @@ me.say_hi()
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)\
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
-[![NetBeans IDE](https://img.shields.io/badge/NetBeans%20IDE-1B6AC6.svg?logo=apache-netbeans-ide&logoColor=white)](#)\
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
 [![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#)
+[![Latex](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white)](#)
 
 
 <p align="center">
