@@ -37,17 +37,18 @@ me.say_hi()
 [![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](#)
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)\
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)\
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)\
 [![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#)
 [![Latex](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white)](#)
+[![Docker](https://img.shields.io/badge/Docker-%2387CEEB.svg?logo=docker&logoColor=white)](#)
+
 
 
 <p align="center">
   <samp>
-    Currently studying AI at uvigo
+    Currently studying at my 3rd year in college studying Artificial Intelligence at Uvigo  
   </samp>
 </p>
