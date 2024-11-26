@@ -49,6 +49,6 @@ me.say_hi()
 
 <p align="center">
   <samp>
-    Currently studying at my 3rd year in college studying Artificial Intelligence at Uvigo  
+    Currently studying at my 3rd year at college studying Artificial Intelligence at Uvigo  
   </samp>
 </p>
