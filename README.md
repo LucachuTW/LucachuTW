@@ -19,7 +19,7 @@ class AIStudent:
 
     def __init__(self):
         self.name = "Lucas González Fiz"
-        self.role = "AI Studentr"
+        self.role = "AI Student"
         self.language_spoken = ["es_ES", "en_US", "gl_GL"]
 
     def say_hi(self):
