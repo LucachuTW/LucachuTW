@@ -26,7 +26,7 @@ class AIEngineer:
         print("Thanks for dropping by, hope you find some of my work interesting.")
 
 
-me = AIStudnet()
+me = AIEngineer()
 me.say_hi()
 ```
 
