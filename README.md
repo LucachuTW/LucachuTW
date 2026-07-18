@@ -1,6 +1,6 @@
 
 
-### Lucas Fiz AI Student
+### Lucas Fiz AI Engineer
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 <p align="center">
@@ -15,11 +15,11 @@
 # -*- coding: utf-8 -*-
 
 
-class AIStudent:
+class AIEngineer:
 
     def __init__(self):
         self.name = "Lucas González Fiz"
-        self.role = "AI Student"
+        self.role = "AI Engineer"
         self.language_spoken = ["es_ES", "en_US", "gl_GL"]
 
     def say_hi(self):
